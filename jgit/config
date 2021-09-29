@@ -1,0 +1,6 @@
+[filesystem "AdoptOpenJDK|11.0.3|/dev/disk1s1s1"]
+	timestampResolution = 5000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Oracle Corporation|15.0.2|/dev/disk1s2"]
+	timestampResolution = 4000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
